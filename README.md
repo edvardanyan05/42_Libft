@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by <edmvarda>*
+*This project has been created as part of the 42 curriculum by edmvarda*
 ##  Description
 
 Libft is your very first own library in C. The project involves coding a reusable C library containing multiple general-purpose functions.  
