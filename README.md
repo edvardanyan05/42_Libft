@@ -10,7 +10,7 @@ The library covers three parts:
 Reimplementing standard C library functions (character checks, string and memory manipulation, conversions).
 
 ###  Additional functions
-Like ft_substr`, `ft_strjoin`, `ft_split`, etc.
+Like ft_substr, ft_strjoin, ft_split`, etc.
 
 ###  Linked list functions
 Creation, manipulation, and iteration over `t_list` linked lists.
